@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>هدیه آذرداغی | Hedieh Azar Daghi</title>
+  <style>
+    body {
+      font-family: "Vazir", sans-serif;
+      background: #fdf8f3;
+      color: #2c2c2c;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #fff3e0;
+      text-align: center;
+      padding: 80px 20px 40px;
+      background-image: url('background-texture.jpg');
+      background-size: cover;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-style: italic;
+      font-size: 1.2em;
+    }
+    .gallery-section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .gallery-title {
+      font-size: 1.8em;
+      margin-bottom: 30px;
+      border-bottom: 2px solid #d8a05d;
+      display: inline-block;
+    }
+    .bio-section {
+      padding: 50px 20px;
+      background: #fff;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .contact {
+      background: #f1e4d1;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .contact input, .contact textarea {
+      padding: 10px;
+      width: 80%;
+      max-width: 400px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .contact button {
+      padding: 10px 30px;
+      background: #d8a05d;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>هدیه آذرداغی</h1>
+    <p>هر ردی از رنگ، یاد توست مامان…</p>
+  </header>
+  <section class="gallery-section">
+    <h2 class="gallery-title">گالری آثار</h2>
+    <p>برای دیدن دسته‌بندی‌های نقاشی، عکاسی، کلاژ و مجسمه‌سازی، لطفاً در آینده این بخش را بررسی کنید.</p>
+  </section>
+  <section class="bio-section">
+    <h2>درباره من</h2>
+    <p>هدیه آذرداغی، متولد ۱۳۶۹. فارغ‌التحصیل کارشناسی ارشد حقوق و دانشجوی رشته هنرهای تجسمی، گرایش نقاشی. هنرمندی با علاقه به سبک‌های سورئال، اکسپرسیونیست و آبستره، با تجربه در نمایشگاه‌های داخلی و بین‌المللی.</p>
+  </section>
+  <section class="contact">
+    <h2>تماس با من</h2>
+    <form>
+      <input type="text" placeholder="نام شما">
+      <input type="email" placeholder="ایمیل شما">
+      <textarea rows="5" placeholder="پیام شما"></textarea>
+      <br>
+      <button type="submit">ارسال</button>
+    </form>
+    <p>اینستاگرام: hediye.oneshot_photography | ایمیل: hediiye2.art@gmail.com</p>
+  </section>
+</body>
+</html>
